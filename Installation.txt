@@ -1,0 +1,5 @@
+First, ensure you have Python 3 and Pillow installed. You can use a virtual environment to manage dependencies:
+
+git clone https://github.com/4BH1L4SH/PRODIGY_CS_02.git
+
+cd PRODIGY_CS_02
